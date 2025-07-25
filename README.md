@@ -5,33 +5,24 @@
 **Client:** Azure Communication Services  
 ---
 
+<h3>UI Screenshots</h3>
 
-## UI
+<p float="left">
+  <img src="./images/selectrole.png" width="30%" />
+  <img src="./images/advisorhome.png" width="30%" />
+  <img src="./images/clientonboarding.png" width="30%" />
+</p>
 
-**Screenshots:**
+<p float="left">
+  <img src="./images/clienthome.png" width="30%" />
+  <img src="./images/clientinvest.png" width="30%" />
+  <img src="./images/clientadvisorcall.png" width="30%" />
+</p>
 
-### 1. Role Selection
-![Figure 1: Role Selection Screen](./images/selectrole.png)
-
-### 2. Advisor Home Screen
-![Figure 2: Advisor Home Screen](./images/advisorhome.png)
-
-### 3. Client Onboarding Screen
-![Figure 3: Client Onboarding Screen](./images/clientonboarding.png)
-
-### 4. Client Home Screen
-![Figure 4: Client Home Screen](./images/clienthome.png)
-
-### 5. Client-Investment Dashboard
-![Figure 5: Client Investment View](./images/clientinvest.png)
-
-### 6. Client-Advisor Video Call
-![Figure 6: Client and Advisor Video Call](./images/clientadvisorcall.png)
-
-
-### 7. Copilot Summary View (Advisor)
-![Figure 7: Advisor Copilot Summary](./images/advisorcopilot.png)
-
+<p float="left">
+  <img src="./images/advisorcopilot.png" width="30%" />
+</p>
+  
 
 ---
 ## Project Background
